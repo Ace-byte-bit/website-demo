@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>css</title>
+
+    <style>
+        h1 {
+            color: blue;
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        }
+
+        body {
+            color: skyblue;
+        }
+
+        h2 {
+            color: green;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <a href="home.html">home</a>
+        <a href="country.html">country</a>
+        <a href="park.html">park</a>
+        <a href="board.html">board</a>
+    </nav>
+</body>
+</html>

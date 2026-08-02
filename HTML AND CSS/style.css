@@ -1,0 +1,35 @@
+
+    
+        
+    
+        style
+            h1{
+                color: blue;
+                 font-family: 'Times New Roman', Times, serif;
+
+
+            }
+            body{
+                background-color:skyblue;
+            }
+            .btn-nav{
+                
+                color: white;             
+    background-color: blue;   
+    text-align: center;
+    text-decoration: none;    
+    display: inline-block;    
+    padding: 10px 20px;       
+            }
+            img{
+                width: 20%;
+                height: 20%;
+            }
+
+h2{
+    color:green;
+}
+
+        
+        
+         

@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>board</title>
+</head>
+<body>
+<p><b>RDB</b></p>
+<p> RDB Stands for Rwanda Development Board</p>
+<p><b>RURA</b></p>
+<p> RURA Stands for Rwanda utility regulatory authority</p>
+<p><b>RGB</b></p>
+<p> RGB Stands for Rwanda Governance Board</p>
+<p><b>RSB</b></p>
+<p> RSB Stands for Rwanda Standards Board</p>
+</body>
+</html>

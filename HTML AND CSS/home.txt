@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>home</title>
+</head>
+<body>
+<p>Rwanda has 4 provinces and kigali city</p>
+<p>Kigali City has 3 distrists<sup> which ones?</sup></p>
+<p><u><s>Kigali Convention center is in Nyarugenge District</s></u></p>
+<p><u> Thank you!</u></p>
+<img src= "b.jfif">alt=landscape
+<nav>
+</li><a href="country.html">country</a></li>
+</li><a href="park.html">park</a></li>
+</li><a href="board.html">board</a></li>
+
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<html>
+<head>
+ <style>
+            h1{
+                color: blue;
+                 font-family: 'Times New Roman', Times, serif;
+
+
+            }
+            body{
+               background-color: skyblue;
+            }
+h2{
+    color:green;
+}
+</style>
+<title>country</title>
+</head>
+<body>
+<h1>easter african community(EAC)has 6 partner states:</h1>
+<ol>
+<li>Rwanda</li>
+<li> Uganda</li>
+<li> Burundi</li>
+<li> kenya</li>
+<li> tanzania</li>
+<li> South sudan</li>
+</ol> 
+</body>
+</html>
